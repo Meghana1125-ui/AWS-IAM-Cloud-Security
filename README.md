@@ -130,49 +130,49 @@ AWS Account
 
 ![EC2 Instances Created](screenshots/ec2-instaces-created.png)
 
-### 3. Resource Tags Added
-
-![Resource Tags Added](screenshots/recource-tag-selected.png)
-
-### 4. Development Instance Stopped
-
-![EC2 Instance Stopped](screenshots/ec2-instace-stopped.png)
-
-### 5. Account Alias Created
+### 3. Account Alias Created
 
 ![Account Alias](screenshots/iam-account-alias-created.png)
 
-### 6. IAM Policy Created
+### 4. IAM Policy Created
 
 ![IAM Policy Created](screenshots/iam-policy-created.png)
 
-### 7. IAM Policy Statement
+### 5. IAM Policy Statement
 
 ![Policy Statement](screenshots/iam-policy-statement.png)
 
-### 8. IAM User Group Created
+### 6. IAM User Group Created
 
 ![IAM Group](screenshots/iam-user-group-created.png)
 
-### 9. IAM User Created
+### 7. IAM User Created
 
 ![IAM User](screenshots/iam-user-created.png)
 
-### 10. Login Credentials Downloaded
+### 8. Login Credentials Downloaded
 
 ![CSV Downloaded](screenshots/dot-cvk-file-downloaded.png)
 
-### 11. Console Sign-In URL
+### 9. Console Sign-In URL
 
 ![Console Sign In](screenshots/console-signin-url.png)
 
-### 12. EC2 Access Denied Error
+### 10. EC2 Access Denied Error
 
 ![Access Denied](screenshots/ec2-access-denied.png)
 
-### 13. IAM Policy Simulator
+### 11. Development Instance Stopped
+
+![EC2 Instance Stopped](screenshots/ec2-instace-stopped.png)
+
+### 12. IAM Policy Simulator
 
 ![Policy Simulator](screenshots/policy-simulator-access-denied.png)
+
+### 13. Resource Tags Added
+
+![Resource Tags Added](screenshots/recource-tag-selected.png)
 
 ### 14. Permission Allowed
 
