@@ -138,9 +138,6 @@ AWS Account
 
 ![IAM Policy Created](screenshots/iam-policy-created.png)
 
-### 5. IAM Policy Statement
-
-![Policy Statement](screenshots/iam-policy-statement.png)
 
 ### 6. IAM User Group Created
 
@@ -169,6 +166,10 @@ AWS Account
 ### 12. IAM Policy Simulator
 
 ![Policy Simulator](screenshots/policy-simulator-access-denied.png)
+
+### 5. IAM Policy Statement
+
+![Policy Statement](screenshots/iam-policy-statement.png)
 
 ### 13. Resource Tags Added
 
