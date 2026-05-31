@@ -139,35 +139,35 @@ AWS Account
 ![IAM Policy Created](screenshots/iam-policy-created.png)
 
 
-### 6. IAM User Group Created
+### 5. IAM User Group Created
 
 ![IAM Group](screenshots/iam-user-group-created.png)
 
-### 7. IAM User Created
+### 6. IAM User Created
 
 ![IAM User](screenshots/iam-user-created.png)
 
-### 8. Login Credentials Downloaded
+### 7. Login Credentials Downloaded
 
 ![CSV Downloaded](screenshots/dot-cvk-file-downloaded.png)
 
-### 9. Console Sign-In URL
+### 8. Console Sign-In URL
 
 ![Console Sign In](screenshots/console-signin-url.png)
 
-### 10. EC2 Access Denied Error
+### 9. EC2 Access Denied Error
 
 ![Access Denied](screenshots/ec2-access-denied.png)
 
-### 11. Development Instance Stopped
+### 10. Development Instance Stopped
 
 ![EC2 Instance Stopped](screenshots/ec2-instace-stopped.png)
 
-### 12. IAM Policy Simulator
+### 11. IAM Policy Simulator
 
 ![Policy Simulator](screenshots/policy-simulator-access-denied.png)
 
-### 5. IAM Policy Statement
+### 12. IAM Policy Statement
 
 ![Policy Statement](screenshots/iam-policy-statement.png)
 
